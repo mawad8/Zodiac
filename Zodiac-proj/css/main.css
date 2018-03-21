@@ -1,0 +1,27 @@
+
+body {
+	background-image: url(..//img/all.png);
+	/*background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;*/
+}
+
+
+
+.all {
+	width: 100%;
+	text-align: center;
+	margin-top: 5%;
+}
+
+.all h1, h4 {
+	color: white;
+}
+
+#bba{
+	margin-top: 3%;
+	color: white;
+}
+.just{
+	margin-bottom: 2%;
+}
